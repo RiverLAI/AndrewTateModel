@@ -1,0 +1,11 @@
+Model Information:
+* title:	ksi Prime
+* source:	https://sketchfab.com/3d-models/ksi-prime-186328adc3844d039ba99cc7e173497d
+* author:	jayjaymalcolm1 (https://sketchfab.com/jayjaymalcolm1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ksi Prime" (https://sketchfab.com/3d-models/ksi-prime-186328adc3844d039ba99cc7e173497d) by jayjaymalcolm1 (https://sketchfab.com/jayjaymalcolm1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
