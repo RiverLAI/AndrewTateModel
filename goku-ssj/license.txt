@@ -1,0 +1,11 @@
+Model Information:
+* title:	goku-ssj
+* source:	https://sketchfab.com/3d-models/goku-ssj-bd58d0f7443b48d19ed596d96f8848bb
+* author:	A_CAT564 (https://sketchfab.com/ZENTA-_-)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "goku-ssj" (https://sketchfab.com/3d-models/goku-ssj-bd58d0f7443b48d19ed596d96f8848bb) by A_CAT564 (https://sketchfab.com/ZENTA-_-) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
